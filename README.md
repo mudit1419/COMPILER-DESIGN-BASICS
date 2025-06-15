@@ -138,6 +138,9 @@ Supporting functions like sin(), cos(), sqrt()
 
 Converting to postfix or abstract syntax tree (AST) format
 
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/e09af928-95bc-42fd-8d64-4cf5c460578b)
+
 Building a GUI-based calculator
 
 Conclusion
